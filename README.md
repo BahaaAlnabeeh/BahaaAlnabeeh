@@ -28,6 +28,8 @@
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=007ACC)&nbsp;
 ![Materia UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui&logoColor=007ACC)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=007ACC)&nbsp;
+![Adobe Xd](https://img.shields.io/badge/-Adobe%20Xd-05122A?style=flat&logo=adobe-xd&logoColor=007ACC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
