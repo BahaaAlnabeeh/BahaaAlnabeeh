@@ -21,7 +21,7 @@
 <a href="https://www.facebook.com/profile.php?id=100006209319011" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Al%20Nabeeh-1877f2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://wa.me/+970595172603" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Al%20Nabeeh-25d366?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGXshXgFKQJPqRbvxtzZRvZDFqWcpTQMrwlcRpbbtLgssbRcKNVlkWlXwHmDFhpgBFHL" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Al%20Nabeeh-1877f2?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Bahaa%20Al%20Nabeeh-1877f2?style=for-the-badge&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/-1877f2?style=for-the-badge&logo=Gmail&logoColor=white"/>
 
 
 ### 🛠 &nbsp;Tech Stack
