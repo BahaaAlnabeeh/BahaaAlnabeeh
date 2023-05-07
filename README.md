@@ -23,7 +23,8 @@
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGXshXgFKQJPqRbvxtzZRvZDFqWcpTQMrwlcRpbbtLgssbRcKNVlkWlXwHmDFhpgBFHL" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Al%20Nabeeh-1877f2?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 🛠 &nbsp;Tech Stack
-![Flutter](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=007ACC)&nbsp;
 ![Materia UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui&logoColor=007ACC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
