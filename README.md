@@ -22,7 +22,11 @@
 <a href="https://wa.me/+970595172603" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Al%20Nabeeh-25d366?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGXshXgFKQJPqRbvxtzZRvZDFqWcpTQMrwlcRpbbtLgssbRcKNVlkWlXwHmDFhpgBFHL" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Al%20Nabeeh-1877f2?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
-
+🛠 &nbsp;Tech Stack
+![Flutter](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
+![Materia UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui&logoColor=007ACC)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 <!-- ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
