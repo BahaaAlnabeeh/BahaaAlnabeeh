@@ -21,10 +21,9 @@
 <a href="https://www.facebook.com/profile.php?id=100006209319011" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Al%20Nabeeh-1877f2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://wa.me/+970595172603" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Al%20Nabeeh-25d366?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGXshXgFKQJPqRbvxtzZRvZDFqWcpTQMrwlcRpbbtLgssbRcKNVlkWlXwHmDFhpgBFHL" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Al%20Nabeeh-1877f2?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-1877f2?style=for-the-badge&logo=Gmail&logoColor=white"/>
 
 
-### 🛠 &nbsp;Tech Stack
+<!-- ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Materia UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui&logoColor=007ACC)&nbsp;
@@ -38,13 +37,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp; -->
 
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+</a> -->
