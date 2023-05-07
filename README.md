@@ -12,12 +12,12 @@
 
 - 🏢 I'm a Software Engineer
 - 👨‍💻 As a graduate of Software Engineering, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Flutter, SharedPreferences, and State Manegement, or anything related to mobile app development.
+- 💬 Ask me about my experience with Flutter, Dart, Java, Android, SharedPreferences, and State Manegement, or anything related to mobile app development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/bahaa-moqayad-08a26b235/" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Moqayad-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bahaa-al-nabeeh-317343169/" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Al-Nabeeh-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/BahaaMoqayad" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Moqayad-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://instagram.com/bahaamoqayad"  target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Moqayad-5851db?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100042743229367" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Moqayad-1877f2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
