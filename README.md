@@ -18,10 +18,8 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/bahaa-al-nabeeh-317343169/" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Al%20Nabeeh-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/BahaaMoqayad" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Moqayad-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://instagram.com/bahaamoqayad"  target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Nabeeh-5851db?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100042743229367" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Moqayad-1877f2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://wa.me/+972598623000" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Moqayad-25d366?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100006209319011" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Al%20Nabeeh-1877f2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://wa.me/+970595172603" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Al%20Nabeeh-25d366?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
